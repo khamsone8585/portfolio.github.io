@@ -93,6 +93,9 @@ h6 {
 	line-height: 1.5rem;
 }
 
+.thumbnail {
+	border: 0;
+}
 .p-large {
 	font-size: 1.125rem;
 	line-height: 1.75rem;
